@@ -1,0 +1,182 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7888,
+      "max": [
+        10.370400428771973,
+        -46.79146957397461,
+        10.187649726867676
+      ],
+      "min": [
+        -7.715851783752441,
+        -72.83624267578125,
+        -7.914213180541992
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 94656,
+      "componentType": 5126,
+      "count": 7888,
+      "max": [
+        0.9999873042106628,
+        0.999768078327179,
+        0.9999772310256958
+      ],
+      "min": [
+        -0.9999498724937439,
+        -0.9998010993003845,
+        -0.9999697208404541
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7888,
+      "max": [
+        1.0,
+        1.000180959701538
+      ],
+      "min": [
+        0.0,
+        -0.00018114350677933544
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 47232,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Joyce (https://sketchfab.com/JoyceTreasure)",
+      "license": "CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)",
+      "source": "https://sketchfab.com/3d-models/3d-adinkra-asase-ye-duru-obj-6912e468962848df8bfafb1aaaf588d9",
+      "title": "3d_adinkra_asase-ye-duru_obj"
+    },
+    "generator": "Sketchfab-15.42.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 188928,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 63104,
+      "byteOffset": 188928,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 189312,
+      "byteOffset": 252032,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 441344,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_transmission"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_transmission": {
+          "transmissionFactor": 0.0
+        }
+      },
+      "name": "FlatFFFFFF63d4728f-7043-42b6-b0d2-252dcea9a6b0",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8765243902439024,
+          0.8765243902439024,
+          0.8765243902439024,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.10034839063882828,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.2281818754261335e-17,
+        -0.10034839063882828,
+        0.0,
+        0.0,
+        0.10034839063882828,
+        2.2281818754261335e-17,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "3d_adinka_asase-ye-duru.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

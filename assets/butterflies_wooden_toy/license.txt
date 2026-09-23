@@ -1,0 +1,11 @@
+Model Information:
+* title:	Butterflies Wooden Toy
+* source:	https://sketchfab.com/3d-models/butterflies-wooden-toy-00052d0d9a304d308058260a4a9b7c20
+* author:	trinityscsp (https://sketchfab.com/trinityscsp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Butterflies Wooden Toy" (https://sketchfab.com/3d-models/butterflies-wooden-toy-00052d0d9a304d308058260a4a9b7c20) by trinityscsp (https://sketchfab.com/trinityscsp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

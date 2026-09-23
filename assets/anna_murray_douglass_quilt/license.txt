@@ -1,0 +1,11 @@
+Model Information:
+* title:	Anna Murray Douglass Quilt
+* source:	https://sketchfab.com/3d-models/anna-murray-douglass-quilt-e7dd9f1071f6426089c02ac99260ad3e
+* author:	The Center for Digital Humanities UArizona (https://sketchfab.com/UofA-CDH)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Anna Murray Douglass Quilt" (https://sketchfab.com/3d-models/anna-murray-douglass-quilt-e7dd9f1071f6426089c02ac99260ad3e) by The Center for Digital Humanities UArizona (https://sketchfab.com/UofA-CDH) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
